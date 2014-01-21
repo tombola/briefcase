@@ -13,3 +13,11 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+.DS_Store
+
+# Ignore bundler config (http://goo.gl/N1A3mM)
+/.bundle
+
+# Ignore the default SQLite database (http://goo.gl/N1A3mM)
+/db/*.sqlite3
